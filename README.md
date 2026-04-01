@@ -1,4 +1,4 @@
 # apanacollege-demo
 This is my first Git Repository.
 <br>
-Author - Trupti Mane
+Author - Trupti Jadhav
